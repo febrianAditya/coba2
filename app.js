@@ -32,5 +32,5 @@ app.post('/register', async (req, res) => {
 
 
 app.listen(PORT, () => {
-  console.log(`I LOVE YOU ${PORT}`);
+  console.log(`I LOVE YOU ${PORT} MAN`);
 });
